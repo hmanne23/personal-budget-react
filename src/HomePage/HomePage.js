@@ -3,6 +3,8 @@ import axios from 'axios';
 import Chart from 'chart.js/auto';
 import * as d3 from 'd3';
 import '../App.scss'; 
+import '../index.scss'; 
+
 
 
 
