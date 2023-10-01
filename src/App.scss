@@ -13,6 +13,9 @@
   }
 }
 
+
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -36,3 +39,9 @@
     transform: rotate(360deg);
   }
 }
+
+.d3-chart-container {
+  width: 500px;
+  height: 500px; 
+}
+
